@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-01T14:05:14.026146324+06:00"
+    description: A Helm chart for Kubernetes
+    digest: e71931b1ad0ab6ddf440f69a3547106dd6dac8512da2015c06a8e4eb3bb4673e
+    name: hello-nginx
+    type: application
+    urls:
+    - https://sudipto-003.github.io/nginx-chart/hello-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-01T14:05:14.025757695+06:00"
